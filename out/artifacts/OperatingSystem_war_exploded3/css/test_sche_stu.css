@@ -1,0 +1,17 @@
+h4 {
+    margin: 10px;
+    padding: 10px;
+}
+
+th {
+    font-size: .875rem;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+/*!*thead tr :nth-child(2) {*!*/
+    /*!*display: none;*!*/
+/*}*/

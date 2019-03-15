@@ -1,0 +1,16 @@
+th {
+    font-size: .875rem;
+    text-align: center;
+}
+
+td {
+    text-align: center;
+}
+
+#table-panel .btn-group {
+    padding-top: 2%;
+}
+
+.tool-bar-btm span{
+    margin-left: 20px;
+}
